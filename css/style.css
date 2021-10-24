@@ -3,8 +3,15 @@
     font-family: Garamond, sans-serif;
 }
 .heading{
+    color: maroon;
+    text-align: center;
+    font-size: 48px;
 }
 .para.text{
+    color: indianred;
+    font-size: 22px;
+    border-bottom: 5px solid darkolivegreen;
 }
 .list{
+    font-size: 16px;
 }
