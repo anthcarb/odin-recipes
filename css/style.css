@@ -7,11 +7,40 @@
     text-align: center;
     font-size: 48px;
 }
-.para.text{
+.text{
     color: indianred;
     font-size: 22px;
+}
+.index.text{
     border-bottom: 5px solid darkolivegreen;
 }
 .list{
     font-size: 16px;
+}
+.centerimage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.imgcaption{
+    text-align: center;
+    font-size: 22px;
+    color: darkolivegreen;
+}
+.ingredients.list{
+    background-color: peru;
+}
+.ingredientsheading{
+    border-bottom: 5px solid tan;
+    color: maroon;
+    font-size: 26px;
+}
+.steps.list{
+    background-color: tan;
+}
+.stepsheading{
+    color: maroon;
+    font-size: 26px;
+    border-bottom: 5px solid peru;
 }
